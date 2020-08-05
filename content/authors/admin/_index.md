@@ -18,12 +18,13 @@ organizations:
   url: "iitk.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I like to work on developing autonomy for aerial robots.
 
 interests:
 - Aerial Robotics
 - Motion Planning
-- Quantum Computing
+- Computer Vision
+- Signal Processing
 
 education:
   courses:
@@ -58,4 +59,4 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently a junior undergraduate in the Department of Electrical Engineering at IIT Kanpur. I love learning stuff and spend most of my time thinking, and programming. I'm an active member of [Aerial Robotics IITK](https://aerialrobotics-iitk.github.io), where I manage and develop the software for our custom-built fleet of quadcopters. I also have a wider spanning interest in robotics and making stuff work autonomously.
