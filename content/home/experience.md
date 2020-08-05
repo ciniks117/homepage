@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -32,13 +32,22 @@ date_format = "Jan 2006"
 # * Deploying
 # """
 
-# [[experience]]
-# title = "Professor"
-# company = "University X"
-# company_url = ""
-# location = "California"
-# date_start = "2016-01-01"
-# date_end = "2016-12-31"
-# description = """Taught electronic engineering and researched semiconductor physics."""
+[[experience]]
+title = "Team Head"
+company = "Aerial Robotics IITK"
+company_url = ""
+location = ""
+date_start = "2020-04-01"
+date_end = ""
+description = """Participating in national as well as international aerial robotics competitions"""
+
+[[experience]]
+title = "Manager, Campus Wing"
+company = "Outreach Cell"
+company_url = ""
+location = "IIT Kanpur"
+date_start = "2020-04-01"
+date_end = ""
+description = """Part of a 3-tier team of undergradudates working to build student-alumni relations"""
 
 +++
