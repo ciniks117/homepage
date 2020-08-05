@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Pong"
+title: "Pong: An AI Based Approach"
 summary: "Developed a Pong application with 1-player and 2-player interfaces as part of a Course Project"
 authors: ["Feb-Apr 2019"]
 tags: []

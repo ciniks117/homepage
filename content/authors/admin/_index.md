@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Undergraduate, Electrical Engineering
+role: Junior Undergraduate, EE
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Technology, Kanpur
+- name: IIT Kanpur
   url: "iitk.ac.in"
 
 # Short bio (displayed in user profile at end of posts)

@@ -1,6 +1,7 @@
 # IDEs
 .idea/
 
+.gitmodules
 # Hugo
 resources/
 public/
