@@ -6,7 +6,7 @@ summary: "Won the Gold Medal at this event in the 8th Inter IIT Tech Meet, IIT R
 authors: ["Nov-Dec 2019"]
 tags: []
 categories: []
-date: 2019-12-01
+date: 2018-12-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://interiittech.org"

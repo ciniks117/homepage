@@ -33,21 +33,38 @@ date_format = "Jan 2006"
 # """
 
 [[experience]]
-title = "Team Head"
-company = "Aerial Robotics IITK"
+title = "Robotics Software Engineering Intern"
+company = "Rapyuta Robotics"
 company_url = ""
 location = ""
-date_start = "2020-04-01"
+date_start = "2019-08-01"
 date_end = ""
-description = """Participating in national as well as international aerial robotics competitions"""
+description = ""
 
 [[experience]]
-title = "Manager, Campus Wing"
-company = "Outreach Cell"
+title = "Undergraduate Researcher"
+company = " Department of Computer Science and Engineering"
+company_url = ""
+location = ""
+date_start = "2019-08-01"
+date_end = ""
+description = ""
+
+[[experience]]
+title = "Founder and Team Leader"
+company = "Aerial Robotics IITK"
 company_url = ""
 location = "IIT Kanpur"
-date_start = "2020-04-01"
-date_end = ""
+date_start = "2018-08-01"
+date_end = "2019-07-01"
 description = """Part of a 3-tier team of undergradudates working to build student-alumni relations"""
 
+[[experience]]
+title = "Coordinator of Student Club"
+company = "Aeromodelling Club IITK"
+company_url = ""
+location = "IIT Kanpur"
+date_start = "2017-08-01"
+date_end = "2018-07-01"
+description = """Part of a 3-tier team of undergradudates working to build student-alumni relations"""
 +++

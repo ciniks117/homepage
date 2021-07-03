@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ashwin Shenai
+title: Gajendra Nagar
 
 # Username (this should match the folder name)
 authors:
@@ -10,27 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Undergraduate, EE
-
+role: Ex. Robotics Software Engineer
 # Organizations/Affiliations
 organizations:
-- name: IIT Kanpur
-  url: "iitk.ac.in"
+# - name: Rapyuta Robotics
+#   url: "https://www.rapyuta-robotics.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like to work on developing autonomy for aerial robots.
+bio: 
 
 interests:
+- Fast-Flight of MAVs
 - Aerial Robotics
+- Non-Linear Optimal Controls
 - Motion Planning
-- Computer Vision
-- Signal Processing
+- Safe Learning
+- Robotics Softwares
 
 education:
   courses:
-  - course: B.Tech. in Electrical Engineering
+  - course: B.Tech. in Aerospace Engineering
     institution: Indian Institute of Technology, Kanpur
-    year: 2022 (exp.)
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ashwins@iitk.ac.in'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:gajendranagar02@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/ashwin2802
+  link: https://github.com/gajena
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -59,4 +60,7 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a junior undergraduate in the Department of Electrical Engineering at IIT Kanpur. I love learning stuff and spend most of my time thinking, and programming. I'm an active member of [Aerial Robotics IITK](https://aerialrobotics-iitk.github.io), where I manage and develop the software for our custom-built fleet of quadcopters. I also have a wider spanning interest in robotics and making stuff work autonomously.
+I'm currently working as Robotics Software Engineering Intern at Rapyuta Robotics on mutli-robot simulation and system monitoring.
+I finished my Bachelor at [IIT Kanpur](http://iitk.ac.in/) in [Aerospace Engineering](https://www.iitk.ac.in/aero/) in 2019.
+I love working on autonomous systems (especially Aerial Robots). Also I'm currently mentors team [Aerial Robotics IITK](https://aerialrobotics-iitk.github.io) for [IARC 2021 Simulation Challenge](http://www.aerialroboticscompetition.org/simulation_challenge.php).
+I also have a wider spanning interest in robotics and making stuff work autonomously.
