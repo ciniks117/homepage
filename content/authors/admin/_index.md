@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gajendra Nagar
+title: Nikhil Kumar Singh
 
 # Username (this should match the folder name)
 authors:
@@ -10,28 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Ex. Robotics Software Engineer
+role: PhD Student
 # Organizations/Affiliations
 organizations:
-# - name: Rapyuta Robotics
-#   url: "https://www.rapyuta-robotics.com/"
+- name: Department of Computer Science and Engineering, IIT Kanpur
+#   url: "https://www.cse.iitk.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Fast-Flight of MAVs
-- Aerial Robotics
-- Non-Linear Optimal Controls
-- Motion Planning
-- Safe Learning
-- Robotics Softwares
+- Formal Verification
+- Controller Synthesis
+- Reinforcement Learning
+- Cyber Physical Systems
 
 education:
   courses:
-  - course: B.Tech. in Aerospace Engineering
+  - course: PhD in CSE
     institution: Indian Institute of Technology, Kanpur
-    year: 2015 - 2019
+    year: 2019 - Present
+  - course: MS in CSE
+    institution: Indian Institute of Technology, Kanpur
+    year: 2017 - 2019
+  - course: B.Tech in CSE
+    institution: National Institute of Technology, Jamshedpur
+    year: 2010 - 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,10 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gajendranagar02@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ksnikhil@iitk.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gajena
+  link: https://github.com/ciniks117
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -60,7 +64,12 @@ user_groups:
 - Visitors
 ---
 
-I'm currently working as Robotics Software Engineering Intern at Rapyuta Robotics on mutli-robot simulation and system monitoring.
-I finished my Bachelor at [IIT Kanpur](http://iitk.ac.in/) in [Aerospace Engineering](https://www.iitk.ac.in/aero/) in 2019.
-I love working on autonomous systems (especially Aerial Robots). Also I'm currently mentors team [Aerial Robotics IITK](https://aerialrobotics-iitk.github.io) for [IARC 2021 Simulation Challenge](http://www.aerialroboticscompetition.org/simulation_challenge.php).
-I also have a wider spanning interest in robotics and making stuff work autonomously.
+I am a PhD student at the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at the  [Indian Institute of Technology Kanpur](https://iitk.ac.in/) under [Indranil Saha](https://cse.iitk.ac.in/users/isaha/). I am a recipient of the [Prime Minister Research Fellowship](https://pmrf.in) since December-2020.
+I am working on synthesis of safe and robust controllers for safety-critical Cyber Physical Systems (CPSs).
+During my MS, I worked on development of an automated debugging tool for CPS models. I have worked at OptumSoft, Bangalore for 2 years, where I developed application software for distributed systems.
+
+
+
+
+<!-- I love working on robotics systems (mainly Aerial Robots), RC flying of fixed-wings, freestyle FPV flying of multi-rotors, playing video games, watching movies, listening music, and want my GoGoGo...Tron.    -->
+<!-- He mentored team [Aerial Robotics IITK](https://aerialrobotics-iitk.github.io) for [IARC 2021 Simulation Challenge](http://www.aerialroboticscompetition.org/simulation_challenge.php). -->

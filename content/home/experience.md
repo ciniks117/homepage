@@ -33,38 +33,12 @@ date_format = "Jan 2006"
 # """
 
 [[experience]]
-title = "Robotics Software Engineering Intern"
-company = "Rapyuta Robotics"
-company_url = ""
-location = ""
-date_start = "2019-08-01"
-date_end = ""
-description = ""
+title = "Member of Technical Staff"
+company = "OptumSoft"
+company_url = "https://optumsoft.com"
+location = "Bangalore"
+date_start = "2014-06-01"
+date_end = "2016-06-01"
+description = "Development of application software for distributed systems."
 
-[[experience]]
-title = "Undergraduate Researcher"
-company = " Department of Computer Science and Engineering"
-company_url = ""
-location = ""
-date_start = "2019-08-01"
-date_end = ""
-description = ""
-
-[[experience]]
-title = "Founder and Team Leader"
-company = "Aerial Robotics IITK"
-company_url = ""
-location = "IIT Kanpur"
-date_start = "2018-08-01"
-date_end = "2019-07-01"
-description = """Part of a 3-tier team of undergradudates working to build student-alumni relations"""
-
-[[experience]]
-title = "Coordinator of Student Club"
-company = "Aeromodelling Club IITK"
-company_url = ""
-location = "IIT Kanpur"
-date_start = "2017-08-01"
-date_end = "2018-07-01"
-description = """Part of a 3-tier team of undergradudates working to build student-alumni relations"""
 +++

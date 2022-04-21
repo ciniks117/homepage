@@ -3,4 +3,4 @@
 	url = https://github.com/gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = git@github.com:gajena/gajena.github.io.git
+	url = git@github.com:ciniks117/ciniks117.github.io.git

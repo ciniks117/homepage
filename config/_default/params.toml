@@ -88,12 +88,12 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gajendranagar02@gmail.com"
+email = "cniks117@gmail.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "IIT Kanpur", city = "Kalyanpur", region = "Kanpur", postcode = "208016", country = "India", country_code = "IN"}
+address = {street = "KD-305, CSE Dept., IIT Kanpur", city = "Kanpur", postcode = "208016", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -123,7 +123,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "https://twitter.com/cniks117"
 
 ############################
 ## Regional Settings
