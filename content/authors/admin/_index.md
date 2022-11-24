@@ -48,6 +48,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ciniks117
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/cniks117/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nikhil-cse-iitk/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -64,9 +70,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at the  [Indian Institute of Technology Kanpur](https://iitk.ac.in/) under [Indranil Saha](https://cse.iitk.ac.in/users/isaha/). I am a recipient of the [Prime Minister Research Fellowship](https://pmrf.in) since December-2020.
+I am a PhD student at the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at the  [Indian Institute of Technology Kanpur](https://iitk.ac.in/) under [Dr. Indranil Saha](https://cse.iitk.ac.in/users/isaha/). I am a recipient of the [Prime Minister Research Fellowship](https://pmrf.in) since December-2020.
 I am working on synthesis of safe and robust controllers for safety-critical Cyber Physical Systems (CPSs).
-During my MS, I worked on development of an automated debugging tool for CPS models. I have worked at OptumSoft, Bangalore for 2 years, where I developed application software for distributed systems.
+During MS, I worked on development of an automated debugging tool for CPS models. I have worked at OptumSoft, Bangalore for 2 years, where I developed application software for distributed systems.
 
 
 
