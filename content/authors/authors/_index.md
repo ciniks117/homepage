@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikhil Kumar Singh
+title: Nikhil Singh
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
-- name: Department of Computer Science and Engineering, IIT Kanpur
-#   url: "https://www.cse.iitk.ac.in"
+- name: Max Planck Institute for Software Systems
+#   url: "https://www.mpi-sws.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Formal Verification
+- Formal Methods
 - Controller Synthesis
 - Reinforcement Learning
-- Cyber Physical Systems
+- Robotics
 
 education:
   courses:
   - course: PhD in CSE
     institution: Indian Institute of Technology, Kanpur
-    year: 2019 - Present
+    #year: Jan'20 - Sept'24
   - course: MS in CSE
     institution: Indian Institute of Technology, Kanpur
-    year: 2017 - 2019
+    #year:  Jan'18 - Dec'19
   - course: B.Tech in CSE
     institution: National Institute of Technology, Jamshedpur
-    year: 2010 - 2014
+    #year: Aug'10 - May'14
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,11 +70,11 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at the  [Indian Institute of Technology Kanpur](https://iitk.ac.in/) under [Prof. Indranil Saha](https://cse.iitk.ac.in/users/isaha/). I am a recipient of the [Prime Minister Research Fellowship](https://pmrf.in) since December-2020.
-I am working on synthesis of safe and robust controllers for safety-critical Cyber Physical Systems (CPSs).
-During MS, I worked on development of an automated debugging tool for CPS models. I have worked at OptumSoft, Bangalore for 2 years, where I developed application software for distributed systems.
+I am a Postdoctoral Researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) working with [Prof. Rupak Majumdar](https://people.mpi-sws.org/~rupak/) and [Prof. Sadegh Soudjani](https://hycodev.com/ssoudjani/). 
+Prior to this, I completed my PhD from the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at the  [Indian Institute of Technology Kanpur](https://iitk.ac.in/) under [Prof. Indranil Saha](https://cse.iitk.ac.in/users/isaha/). 
+My doctoral research was supported by the prestigious [Prime Minister Research Fellowship](https://pmrf.in).
 
-
+My research interest lies in the area of Learning-based Controller Synthesis. I work mostly in designing Safe, Robust and Efficient algorithms for Embodied AI systems. 
 
 
 <!-- I love working on robotics systems (mainly Aerial Robots), RC flying of fixed-wings, freestyle FPV flying of multi-rotors, playing video games, watching movies, listening music, and want my GoGoGo...Tron.    -->
