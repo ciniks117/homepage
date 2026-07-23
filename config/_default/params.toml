@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "KD-305, CSE Dept., IIT Kanpur", city = "Kanpur", postcode = "208016", country = "India", country_code = "IN"}
+address = {street = "Room 515, Building G 26 Campus", city = "Kaiserslautern", postcode = "67663", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -120,7 +120,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "logo_full"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "https://twitter.com/cniks117"

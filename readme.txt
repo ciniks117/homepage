@@ -3,6 +3,8 @@
 
 # to build website
 hugo -D
+or hugo server 
+
 
 # to publish
 ## goto public folder

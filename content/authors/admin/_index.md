@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikhil Kumar Singh
+title: Nikhil Singh
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
-- name: Department of Computer Science and Engineering, IIT Kanpur
+- name: Max Planck Institute for Software Systems, Germany
 #   url: "https://www.cse.iitk.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Formal Verification
 - Controller Synthesis
 - Reinforcement Learning
+- Formal Methods
 - Cyber Physical Systems
 
 education:
   courses:
   - course: PhD in CSE
     institution: Indian Institute of Technology, Kanpur
-    year: 2019 - Present
+    year: 2019 - 2024
   - course: MS in CSE
     institution: Indian Institute of Technology, Kanpur
     year: 2017 - 2019
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ksnikhil@iitk.ac.in'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:niksingh@mpi-sws.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/ciniks117
@@ -70,11 +70,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at the  [Indian Institute of Technology Kanpur](https://iitk.ac.in/) under [Prof. Indranil Saha](https://cse.iitk.ac.in/users/isaha/). I am a recipient of the [Prime Minister Research Fellowship](https://pmrf.in) since December-2020.
-I am working on synthesis of safe and robust controllers for safety-critical Cyber Physical Systems (CPSs).
-During MS, I worked on development of an automated debugging tool for CPS models. I have worked at OptumSoft, Bangalore for 2 years, where I developed application software for distributed systems.
+I am a Postdoctoral Researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) working with [Prof. Sadegh Soudjani](https://hycodev.com/ssoudjani) and [Prof. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). I am currently part of the ERC-funded [AutoCyPher](https://www.auto-cypher.eu/) project. Prior to this, I completed my PhD from the [Department of Computer Science and Engineering](https://cse.iitk.ac.in/) at the  [Indian Institute of Technology Kanpur](https://iitk.ac.in/) under [Prof. Indranil Saha](https://cse.iitk.ac.in/users/isaha/). My doctoral research was supported by the [Prime Minister's Research Fellowship](https://pmrf.in).
 
-
+My research interests lie in the area of Learning-based Controller Synthesis. My work focuses on designing Safe, Robust and Efficient algorithms for Autonomous and Cyber-Physical systems. 
 
 
 <!-- I love working on robotics systems (mainly Aerial Robots), RC flying of fixed-wings, freestyle FPV flying of multi-rotors, playing video games, watching movies, listening music, and want my GoGoGo...Tron.    -->
